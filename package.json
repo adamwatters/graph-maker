@@ -1,0 +1,14 @@
+{
+  "name": "graph_maker",
+  "description": "UI for creating graphs",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-coffee": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "coffee-script": "1.8.0"
+  }
+}
